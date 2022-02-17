@@ -1,0 +1,16 @@
+:host {
+  text-align: center;
+}
+
+input {
+  border: 1px solid #b22222;
+  border-radius: 3px;
+  padding: 3px;
+  margin: 10px;
+}
+
+b {
+  color: #a52a2a;
+  font-size: 18px;
+  margin: 20px;
+}
